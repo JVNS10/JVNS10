@@ -15,14 +15,12 @@ Here are some ideas to get you started:
 <div align="center">
   <h1>👋 Olá, eu sou o João Vitor</h1>
   <p><i>Estudante de Ensino Médio | Desenvolvedor Frontend | Entusiasta Linux & Hardware</i></p>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=JVNS10&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" alt="Status do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JVNS10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Status do GitHub" />
 </div>
 
 ---
 
 ### 🚀 Sobre Mim
-
 - 🎓 **Educação:** Estudante de Ensino Médio focado em tecnologias modernas.
 - 🐧 **Linux:** Entusiasta de sistemas Arch-based (CachyOS) e distros leves como antiX.
 - 🎨 **Design:** Focado em UI/UX com tendências de Glassmorphism e estética Neon.
@@ -32,37 +30,18 @@ Here are some ideas to get you started:
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
-
 #### 💻 Desenvolvimento & Editores
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,neovim,vscode,vscodium,git,github" />
-</a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,neovim,vscode,vscodium,git,github&theme=dark" /></a>
 
 #### 🐧 Sistemas & Infraestrutura
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,arch,debian,windows,docker" />
-</a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,arch,debian,windows,docker&theme=dark" /></a>
 
 > **Nota Técnica:** Experiência avançada em customização de ambientes (KDE Plasma/IceWM) e gerenciamento de servidores self-hosted (Docker/CasaOS).
 
 ---
 
 ### 📊 Estatísticas & Atividade
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=synthwave&hide_border=true" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JVNS10&theme=synthwave&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%" />
-</div>
-
----
-
-<div align="center">
-  <sub>Configurado com foco em performance e estética neon. 🌌</sub>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVNS10&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JVNS10&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
