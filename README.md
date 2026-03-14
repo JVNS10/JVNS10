@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   <h1>👋 Olá, eu sou o João Vitor</h1>
   <p><i>Estudante de Ensino Médio | Desenvolvedor Frontend | Entusiasta Linux & Hardware</i></p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" alt="Status do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JVNS10&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" alt="Status do GitHub" />
 </div>
 
 ---
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=synthwave&hide_border=true" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=synthwave&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JVNS10&theme=synthwave&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br />
