@@ -1,41 +1,53 @@
-# 👋 Olá, eu sou o João Vitor!
+# ⚡ [System.Initialize] João Vitor
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Main_OS-CachyOS-00AEEF?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Learning-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stack-Frontend-FFB100?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Fullstack+Student;Linux+%26+BSD+Enthusiast;UI/UX+Designer+Neon;Hardware+Optimization" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🌑 [System.Status]
-* 🎓 **Educação:** 1º ano do Ensino Médio focado em Dev.
-* 💚 **Current Focus:** Desenvolvendo interfaces reativas com **Vue.js** e Vite.
-* 🐧 **Linux:** Entusiasta de **Arch-based** (CachyOS) e kernels otimizados.
-* 🎨 **Design:** Estética **Glassmorphism** e interfaces Neon.
-* 🏗️ **Infra:** Docker, CasaOS e servidores self-hosted.
+### 🖥️ 1. Sistemas Familiares
+*Sistemas que domino tanto em ambiente Desktop quanto Server.*
+
+| **Ambiente** | **Sistemas Operacionais** |
+| :--- | :--- |
+| **Unix/BSD** | ![FreeBSD](https://img.shields.io/badge/FreeBSD-%23AB2B28.svg?style=for-the-badge&logo=freebsd&logoColor=white) |
+| **Linux Distros** | ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) ![Mint](https://img.shields.io/badge/Mint-217346?style=for-the-badge&logo=linux-mint&logoColor=white) ![ZorinOS](https://img.shields.io/badge/ZorinOS-0CC0DF?style=for-the-badge&logo=zorin&logoColor=white) |
+| **Core/Work** | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) |
 
 ---
 
-### 🕹️ Tech Stack & Toolbox
+### 💻 2. Linguagens & Frameworks
+*Tecnologias que utilizo para criar interfaces modernas e reativas.*
 
-**💻 Web & Frontend**
-- ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**🖥️ Sistemas & Infra**
-- ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
-
----
-
-### 📈 Estatísticas do GitHub
 <div align="center">
+  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
+
+> **Nota Técnica:** Focado em componentes reativos no **Vue.js** e layouts com estética **Glassmorphism**.
+
+---
+
+### 📈 3. Estatísticas do Sistema
+*Dados em tempo real extraídos do meu núcleo de desenvolvimento.*
+
+<p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JVNS10&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
   <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JVNS10&layout=compact&theme=tokyonight&hide_border=true&hide=php,ruby" width="300" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JVNS10&layout=compact&theme=tokyonight&hide_border=true" width="300" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JVNS10&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 
 ---
 
 <div align="center">
-  <sub><i>"Build, Break, Fix, Repeat."</i> 🚀</sub>
+  <sub><i>"Build, Break, Fix, Repeat."</i> | <b>Made with ☕ and Linux</b></sub>
 </div>
