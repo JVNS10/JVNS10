@@ -17,8 +17,8 @@
 
 ---
 
-### 💻 2. Linguagens & Frameworks
-*Tecnologias que utilizo para criar interfaces modernas e reativas.*
+### 💻 2. Linguagens Familiares
+*Destaque para desenvolvimento reativo com Vue.*
 
 <div align="center">
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
@@ -27,24 +27,16 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
-> **Nota Técnica:** Focado em componentes reativos no **Vue.js** e layouts com estética **Glassmorphism**.
-
 ---
 
 ### 📈 3. Estatísticas do Sistema
-*Dados em tempo real extraídos do meu núcleo de desenvolvimento.*
+*Dados em tempo real (Pode levar tempo para atualizar novas stacks).*
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JVNS10&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
   <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JVNS10&layout=compact&theme=tokyonight&hide_border=true" width="300" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JVNS10&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="300" />
 </p>
-
----
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JVNS10&theme=tokyonight&hide_border=true" width="100%" />
-</div>
 
 ---
 
