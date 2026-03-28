@@ -2,30 +2,28 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Main_OS-CachyOS-00AEEF?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Role-Frontend_Dev-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Learning-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stack-Frontend-FFB100?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
 ---
 
-### 🌑 Sobre Mim
-- 🎓 **Educação:** 1º ano do Ensino Médio.
-- 🐧 **Linux:** Entusiasta de sistemas **Arch-based** e distros leves (**antiX**).
-- 🎨 **Design:** Focado em **UI/UX**, layouts **Glassmorphism** e estética Neon.
-- 🛠️ **Hardware:** Otimização de sistemas, undervolting e HomeLab.
-- 🏗️ **Infra:** Gerenciamento de containers com **Docker** e **CasaOS**.
+### 🌑 [System.Status]
+* 🎓 **Educação:** 1º ano do Ensino Médio focado em Dev.
+* 💚 **Current Focus:** Desenvolvendo interfaces reativas com **Vue.js** e Vite.
+* 🐧 **Linux:** Entusiasta de **Arch-based** (CachyOS) e kernels otimizados.
+* 🎨 **Design:** Estética **Glassmorphism** e interfaces Neon.
+* 🏗️ **Infra:** Docker, CasaOS e servidores self-hosted.
 
 ---
 
-### 🕹️ Tecnologias e Ferramentas
+### 🕹️ Tech Stack & Toolbox
 
-**💻 Frontend & Code**
-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-- ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=flat&logo=neovim&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+**💻 Web & Frontend**
+- ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 **🖥️ Sistemas & Infra**
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
-- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+- ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
 
 ---
 
@@ -33,11 +31,11 @@
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JVNS10&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
   <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JVNS10&layout=compact&theme=tokyonight&hide_border=true" width="300" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JVNS10&layout=compact&theme=tokyonight&hide_border=true&hide=php,ruby" width="300" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>"Build, Break, Fix, Repeat." 🚀</sub>
+  <sub><i>"Build, Break, Fix, Repeat."</i> 🚀</sub>
 </div>
