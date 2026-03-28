@@ -1,39 +1,43 @@
-# ⚡ João Vitor | Frontend & Linux Enthusiast
+# 👋 Olá, eu sou o João Vitor!
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00d2ff&center=true&vCenter=true&width=435&lines=Estudante+de+Ensino+Médio;Desenvolvedor+Frontend;Entusiasta+Linux+%26+Hardware)
-
----
-
-### 🌑 [System.Status]
-* 🎓 **Educação:** Estudante de Ensino Médio focado em tecnologias modernas.
-* 🎨 **Design:** Especialista em interfaces **Glassmorphism** e estética **Neon**.
-* ⚙️ **Kernel:** Otimização de sistemas Arch-based (**CachyOS**) e distros leves (**antiX**).
-* 🏗️ **Infra:** Experiência com **CasaOS**, **Docker** e servidores self-hosted.
+<div align="center">
+  <img src="https://img.shields.io/badge/Main_OS-CachyOS-00AEEF?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Frontend_Dev-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Learning-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+</div>
 
 ---
 
-### 🕹️ Tech Stack & Toolbox
-
-**💻 Desenvolvimento**
-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-- ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-**🖥️ Sistemas & Infra**
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+### 🚀 Sobre Mim
+- 🎓 **Estudante:** 1º ano do Ensino Médio.
+- 🐧 **Linux:** Usuário avançado de sistemas **Arch-based** e focado em distros leves.
+- 🎨 **Design:** Entusiasta de **UI/UX**, layouts **Glassmorphism** e setups Neon.
+- 🛠️ **Hardware:** Experiência com otimização de sistemas, undervolting e HomeLab.
+- 🖥️ **Server:** Gerenciamento de containers com **Docker** e **CasaOS**.
 
 ---
 
-### 📊 Estatísticas (GitHub)
+### 🛠️ Tecnologias e Ferramentas
 
-> **Nota:** Se os quadros abaixo não carregarem, [clique aqui para ver meu perfil direto](https://github.com/JVNS10).
+**Frontend & Code**
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+- ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=flat&logo=neovim&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JVNS10&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" width="400" />
-</p>
+**Sistemas & Infra**
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
+- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+
+---
+
+### 📈 Estatísticas do GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JVNS10&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVNS10&layout=compact&theme=tokyonight&hide_border=true" width="300" />
+</div>
 
 ---
 
 <div align="center">
-  <sub>Keep building the future. 🚀</sub>
+  <sub><i>"Build, Break, Fix, Repeat."</i></sub>
 </div>
