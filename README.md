@@ -29,7 +29,16 @@
 
 ---
 
-### 📈 3. Estatísticas do Sistema
+### 🎓 3. Formação
+*Cursos e certificações concluídas para impulsionar o conhecimento.*
+
+| Curso | Status |
+| :--- | :--- |
+| **HTML5 e CSS3 (Curso em Vídeo)** | Módulos 1 e 2 concluídos |
+
+---
+
+### 📈 4. Estatísticas do Sistema
 *Dados em tempo real (Pode levar tempo para atualizar novas stacks).*
 
 <p align="center">
