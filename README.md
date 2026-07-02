@@ -39,7 +39,7 @@
 ---
 
 ### 📈 4. Estatísticas do Sistema
-*Dados em tempo real (Pode levar tempo para atualizar novas stacks).*
+*Dados em tempo real*
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JVNS10&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
